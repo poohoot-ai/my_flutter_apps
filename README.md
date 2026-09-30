@@ -1,6 +1,6 @@
-# my_flutter_apps
+# AI ChatBot
 
-나의 플러터 연습장
+제미나이 AI 연동 챗봇
 
 ## 실행 방법
 
